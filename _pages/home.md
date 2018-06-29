@@ -7,7 +7,7 @@ header:
   cta_label: "Learn more"
   cta_url: "/about/"
   caption:
-excerpt: 'Providing state-of-the-art cluster computing softwares to overcome modern science challenges'
+excerpt: 'Providing state-of-the-art cluster computing softwares to overcome modern science challenges. We believe that sharing R&D efforts between groups, improving interoperability between industry and research in open source projects, and developing new collaborative tools will allow research communities to more fully exploit the big data ecosystem tools.'
 feature_row:
   - image_path:
     alt:
