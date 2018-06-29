@@ -15,7 +15,9 @@ Exact analysis of those data sets produced is a serious computational challenge,
 which cannot be done without the help of state-of-the-art tools.
 This has to be matched by sophisticated and robust analysis performed on many
 powerful machines, as we need to process or simulate several times data sets.
-AstroLab aims at providing state-of-the-art cluster computing softwares to overcome modern science challenges.
+
+AstroLab is an organisation aiming at providing state-of-the-art software tools to overcome modern science challenges faced by research groups.
+Sharing R&D efforts between groups, improving interoperability between industry and research in open source projects, and developing new collaborative tools will allow research communities to more fully exploit the big data ecosystem tools.
 
 ## How to contribute?
 
@@ -23,6 +25,8 @@ Feel free to contribute to the effort! You can fork and push to one of the proje
 We also participate to the Google Summer of Code program.
 
 ## Contact us
+
+We would love to hear from you! Do not hesitate to reach us using the following coordinates:
 
 * peloton @ lal dot in2p3 dot fr
 * arnault @ lal dot in2p3 dot fr
