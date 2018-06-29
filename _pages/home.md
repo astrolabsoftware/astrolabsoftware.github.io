@@ -13,7 +13,7 @@ feature_row:
     alt:
     title: "<i class='fas fa-database'></i> spark-fits"
     excerpt: "Distribute FITS data with Apache Spark: Binary tables, images and more!"
-    url: "https://github.com/theastrolab/spark-fits"
+    url: "https://theastrolab.github.io/spark-fits/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path:
