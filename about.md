@@ -34,4 +34,6 @@ We would love to hear from you! Do not hesitate to reach us using the following 
 
 ## Support
 
-![LAL]({{ "/assets/images/lal_logo.jpg" | absolute_url }}) ![UPSUD]({{ "/assets/images/Logo_Université_Paris-Saclay.svg.png" | absolute_url }}) ![CNRS]({{ "/assets/images/1012px-Centre_national_de_la_recherche_scientifique.svg.png" | absolute_url }})
+![LAL]({{ "/assets/images/lal_logo.jpg" | absolute_url }})
+![UPSUD]({{ "/assets/images/Logo_Université_Paris-Saclay.svg.png" | absolute_url }})
+![CNRS]({{ "/assets/images/1012px-Centre_national_de_la_recherche_scientifique.svg.png" | absolute_url }})
