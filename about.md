@@ -21,7 +21,7 @@ Sharing R&D efforts between groups, improving interoperability between industry 
 
 ## How to contribute?
 
-Feel free to contribute to the effort! You can fork and push to one of the projects, or let us know if you use our projects for your work. For students, we have from time to time internship positions to offer, so do not hesitate to contact us if you want to work with us!
+Feel free to contribute to the effort! You can fork and push to the projects, or let us know if you use our projects for your work. For students, we have from time-to-time internship positions, so do not hesitate to contact us if you want to work with us!
 We also participate to the Google Summer of Code program.
 
 ## Contact us
@@ -31,3 +31,7 @@ We would love to hear from you! Do not hesitate to reach us using the following 
 * peloton @ lal dot in2p3 dot fr
 * arnault @ lal dot in2p3 dot fr
 * plaszczy @ lal dot in2p3 dot fr
+
+## Support
+
+![LAL]({{ "/assets/images/lal_logo.jpg" | absolute_url }}) ![UPSUD]({{ "/assets/images/Logo_Université_Paris-Saclay.svg.png" | absolute_url }}) ![CNRS]({{ "/assets/images/1012px-Centre_national_de_la_recherche_scientifique.svg.png" | absolute_url }})

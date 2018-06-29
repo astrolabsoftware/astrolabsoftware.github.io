@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "AstroLab"
 title_separator          : "-"
-name                     : "AstroLab <small> Bring Apache Spark and science together!</small>"
+name                     : "AstroLab <small> Bring big data and science together!</small>"
 description              : "Apache Spark extensions for processing scientific data"
 url                      : https://theastrolab.github.io
 baseurl                  : /
