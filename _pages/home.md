@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Learn More"
   - image_path:
     alt:
-    title: "<i class='fas fa-terminal'></i> Multilanguage aspects"
+    title: "<i class='fas fa-terminal'></i> Interfaces"
     excerpt: "Interface Scala and Spark with your favourite languages."
     url: "https://github.com/ChristianArnault/tjna"
     btn_class: "btn--primary"
