@@ -70,7 +70,7 @@ $info-color: #52adc8 !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
-$yiq-contrasted-light-default: $dark-gray !default; // #fff !default;
+$yiq-contrasted-light-default: #fff !default;
 $yiq-contrasted-threshold: 175 !default;
 $yiq-debug: false !default;
 
@@ -107,7 +107,7 @@ $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 /* syntax highlighting (base16) */
-$base00: #ffffff !default;
+$base00: #000000 !default;
 $base01: #f5f5f5 !default;
 $base02: #c8c8fa !default;
 $base03: #969896 !default;
