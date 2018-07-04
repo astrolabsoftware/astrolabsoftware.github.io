@@ -19,9 +19,9 @@ title                    : "AstroLab Software"
 title_separator          : "-"
 name                     : "AstroLab <small> Bring big data and science together</small>"
 description              : "Apache Spark extensions for processing scientific data"
-url                      : https://theastrolab.github.io
+url                      : https://astrolabsoftware.github.io
 baseurl                  : /
-repository               : "theastrolab/theastrolab.github.io"
+repository               : "astrolabsoftware/astrolabsoftware.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
