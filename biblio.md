@@ -2,7 +2,7 @@
 layout: posts
 title: Papers / Projects
 permalink: /biblio/
-author_profile: false
+author_profile: true
 ---
 
 ## Papers
