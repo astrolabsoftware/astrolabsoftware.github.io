@@ -100,7 +100,7 @@ analytics:
 # Site Author
 author:
   name             : "AstroLab Software"
-  avatar           : "/assets/images/Icone_AstroLab_sans_fond.png"
+  avatar           : "/assets/images/Icone_AstroLab_sans_fond_et_vide.png"
   bio              : "Bring big data and science together"
   location         : "Orsay, FR"
   email            : "peloton@lal.in2p3.fr"
