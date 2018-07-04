@@ -32,6 +32,10 @@ We would love to hear from you! Do not hesitate to reach us using the following 
 * arnault @ lal dot in2p3 dot fr
 * plaszczy @ lal dot in2p3 dot fr
 
+## Acknowledgment
+
+* Thanks to Bruno Mazoyer for the logo and illustration (LAL Orsay 2018)!
+
 ## Support
 
 ![LAL]({{ "/assets/images/lal_logo.jpg" | absolute_url }})
