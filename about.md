@@ -34,7 +34,7 @@ We would love to hear from you! Do not hesitate to reach us using the following 
 
 ## Acknowledgment
 
-* Thanks to Bruno Mazoyer for the logo and illustration (LAL Orsay 2018)!
+* Credits for the logo and illustration: Bruno Mazoyer (LAL Orsay 2018). Thanks!
 
 ## Support
 
