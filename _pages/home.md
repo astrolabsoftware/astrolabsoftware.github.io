@@ -8,9 +8,8 @@ header:
   cta_label: "Learn more"
   cta_url: "/about/"
   caption:
-excerpt: '<font color="black">Providing state-of-the-art cluster computing software to overcome modern science challenges</font>'
 intro:
-  - excerpt: '<font color="black">Providing state-of-the-art cluster computing software to overcome modern science challenges</font> Centered with `type="center"`'
+  - excerpt: 'Providing state-of-the-art cluster computing software to overcome modern science challenges'
 feature_row:
   - image_path:
     alt:
