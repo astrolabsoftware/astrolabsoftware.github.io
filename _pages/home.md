@@ -14,7 +14,7 @@ feature_row:
   - image_path:
     alt:
     title: "<i class='fas fa-database'></i> spark-fits"
-    excerpt: "Distribute FITS data with Apache Spark: Binary tables, images and more!"
+    excerpt: "Distribute FITS data with Apache Spark: Binary tables, images and more! API for Scala, Java, Python and R."
     url: "https://theastrolab.github.io/spark-fits/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
@@ -28,7 +28,7 @@ feature_row:
   - image_path:
     alt:
     title: "<i class='fas fa-terminal'></i> Interfaces"
-    excerpt: "Interface Scala and Spark with your favourite languages."
+    excerpt: "Interface Scala and Spark with your favourite languages: C/C++/Fortran and more!"
     url: "https://github.com/ChristianArnault/tjna"
     btn_class: "btn--primary"
     btn_label: "Learn More"
