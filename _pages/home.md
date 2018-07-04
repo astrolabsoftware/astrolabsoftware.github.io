@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: " " 
+title: " "
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/bandeau_web_AstroLab.jpg
@@ -9,6 +9,8 @@ header:
   cta_url: "/about/"
   caption:
 excerpt: '<font color="black">Providing state-of-the-art cluster computing software to overcome modern science challenges</font>'
+intro:
+  - excerpt: '<font color="black">Providing state-of-the-art cluster computing software to overcome modern science challenges</font> Centered with `type="center"`'
 feature_row:
   - image_path:
     alt:
