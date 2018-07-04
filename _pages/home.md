@@ -15,14 +15,14 @@ feature_row:
     alt:
     title: "<i class='fas fa-database'></i> spark-fits"
     excerpt: "Distribute FITS data with Apache Spark: Binary tables, images and more! API for Scala, Java, Python and R."
-    url: "https://theastrolab.github.io/spark-fits/"
+    url: "https://astrolabsoftware.github.io/spark-fits/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path:
     alt:
     title: "<i class='fas fa-cogs'></i> spark3D"
     excerpt: "Apache Spark extension for processing large-scale 3D data sets: Astrophysics, High Energy Physics, Meteorology, ..."
-    url: "https://theastrolab.github.io/spark3D/"
+    url: "https://astrolabsoftware.github.io/spark3D/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path:
