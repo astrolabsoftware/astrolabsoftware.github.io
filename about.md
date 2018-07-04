@@ -1,13 +1,11 @@
 ---
 layout: posts
-title: 
+title:
 permalink: /about/
 author_profile: true
 ---
 
 <p align="center"><img width="400" src="https://github.com/astrolabsoftware/astrolabsoftware.github.io/raw/master/assets/images/logo_AstroLab_sans_fond.png"/></p>
-
-## AstroLab Software
 
 The volume of data recorded by current and
 future scientific experiments such as those in High Energy Physics & Astrophysics,
