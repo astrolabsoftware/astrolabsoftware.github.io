@@ -5,10 +5,10 @@ permalink: /about/
 author_profile: true
 ---
 
-## Why AstroLab Software?
+## AstroLab Software
 
 The volume of data recorded by current and
-future High Energy Physics & Astrophysics experiments,
+future scientific experiments such as those in High Energy Physics & Astrophysics,
 and the complexity of their data set require a broad panel of
 knowledge in computer science, signal processing, statistics, and physics.
 Exact analysis of those data sets produced is a serious computational challenge,
