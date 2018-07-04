@@ -18,7 +18,7 @@ locale                   : "en-US"
 title                    : "AstroLab Software"
 title_separator          : "-"
 name                     : "AstroLab <small> Bring big data and science together</small>"
-description              : "Apache Spark extensions for processing scientific data"
+description              : "Providing state-of-the-art cluster computing software to overcome modern science challenges"
 url                      : https://astrolabsoftware.github.io
 baseurl                  : /
 repository               : "astrolabsoftware/astrolabsoftware.github.io"
