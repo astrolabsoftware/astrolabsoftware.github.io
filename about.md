@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: false
 ---
 
-## Why AstroLab?
+## Why AstroLab Software?
 
 The volume of data recorded by current and
 future High Energy Physics & Astrophysics experiments,
@@ -16,7 +16,7 @@ which cannot be done without the help of state-of-the-art tools.
 This has to be matched by sophisticated and robust analysis performed on many
 powerful machines, as we need to process or simulate several times data sets.
 
-AstroLab is an organisation aiming at providing state-of-the-art software tools to overcome modern science challenges faced by research groups.
+AstroLab Software is an organisation aiming at providing state-of-the-art software tools to overcome modern science challenges faced by research groups.
 Sharing R&D efforts between groups, improving interoperability between industry and research in open source projects, and developing new collaborative tools will allow research communities to more fully exploit the big data ecosystem tools.
 
 ## How to contribute?
