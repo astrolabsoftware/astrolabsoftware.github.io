@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/sky.jpg
+  overlay_image: /assets/images/bandeau_web_AstroLab.jpg
   cta_label: "Learn more"
   cta_url: "/about/"
   caption:
