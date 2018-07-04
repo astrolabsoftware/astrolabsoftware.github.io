@@ -5,6 +5,8 @@ permalink: /about/
 author_profile: true
 ---
 
+<p align="center"><img width="200" src="https://github.com/astrolabsoftware/astrolabsoftware.github.io/blob/master/assets/images/logo_AstroLab_sans_fond.png"/> <img width="100" /></p>
+
 ## AstroLab Software
 
 The volume of data recorded by current and
