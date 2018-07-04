@@ -62,7 +62,7 @@ $border-color: $lighter-gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $lighter-gray !default;
 
-$primary-color: #000000 !default; //#7a8288 !default;
+$primary-color: #7a8288 !default;
 $success-color: #62c462 !default;
 $warning-color: #f89406 !default;
 $danger-color: #ee5f5b !default;
@@ -70,7 +70,7 @@ $info-color: #52adc8 !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
-$yiq-contrasted-light-default: #fff !default;
+$yiq-contrasted-light-default: $dark-gray !default; // #fff !default;
 $yiq-contrasted-threshold: 175 !default;
 $yiq-debug: false !default;
 
