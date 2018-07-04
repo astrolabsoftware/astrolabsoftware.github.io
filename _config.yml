@@ -100,8 +100,8 @@ analytics:
 # Site Author
 author:
   name             : "AstroLab Software"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : " "
+  avatar           : "/assets/images/Icone_AstroLab_sans_fond.png"
+  bio              : "Bring big data and science together"
   location         : "Orsay, FR"
   email            : "peloton@lal.in2p3.fr"
   uri              :
