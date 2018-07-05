@@ -9,7 +9,7 @@ header:
   cta_url: "/about/"
   caption:
 intro:
-  - excerpt: 'Providing state-of-the-art cluster computing software to overcome modern science challenges'
+  - excerpt: '<p><font size="6">Providing state-of-the-art cluster computing software to overcome modern science challenges</font></p>'
 feature_row:
   - image_path:
     alt:
