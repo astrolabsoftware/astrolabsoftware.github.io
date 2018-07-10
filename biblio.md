@@ -7,6 +7,7 @@ author_profile: true
 
 ## Papers
 
+* *Analyzing billion-objects catalog interactively: Apache Spark for physicists*, Stéphane Plaszczynski, Julien Peloton, Christian Arnault, Jean-Eric Campagne, [arXiv:1807.03078](https://arxiv.org/abs/1807.03078).
 * *Analyzing astronomical data with Apache Spark*, Julien Peloton, Christian Arnault, Stéphane Plaszczynski, [arXiv:1804.07501](https://arxiv.org/abs/1804.07501).
 
 ## Conferences
