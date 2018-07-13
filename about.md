@@ -28,9 +28,9 @@ We also participate to the Google Summer of Code program.
 
 We would love to hear from you! Do not hesitate to reach us using the following coordinates:
 
-* peloton @ lal dot in2p3 dot fr
-* arnault @ lal dot in2p3 dot fr
-* plaszczy @ lal dot in2p3 dot fr
+* [Julien Peloton](mailto:peloton@lal.in2p3.fr)
+* [Christian Arnault](arnault@lal.in2p3.fr)
+* [Stéphane Plaszczynski](plaszczy@lal.in2p3.fr)
 
 ## Acknowledgment
 
