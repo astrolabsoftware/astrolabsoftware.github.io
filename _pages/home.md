@@ -18,9 +18,6 @@ feature_row:
     url: "https://astrolabsoftware.github.io/spark-fits/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-    url2: "https://astrolabsoftware.github.io/spark-fits/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
   - image_path:
     alt:
     title: "<i class='fas fa-cogs'></i> spark3D"
@@ -28,17 +25,11 @@ feature_row:
     url: "https://astrolabsoftware.github.io/spark3D/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-    url2: "https://astrolabsoftware.github.io/spark3D/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
   - image_path:
     alt:
     title: "<i class='fas fa-terminal'></i> Interfaces"
     excerpt: "Interface Scala and Spark with your favourite languages: C/C++/Fortran and more!"
     url: "https://github.com/ChristianArnault/tjna"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-    url2: "https://github.com/ChristianArnault/tjna"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 ---
