@@ -18,6 +18,7 @@ feature_row:
     url: "https://astrolabsoftware.github.io/spark-fits/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
+    url: "https://astrolabsoftware.github.io/spark-fits/"
     btn_class: "btn--primary"
     btn_label: "Learn More (2)"
   - image_path:
