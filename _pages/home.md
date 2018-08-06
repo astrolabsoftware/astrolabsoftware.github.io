@@ -18,9 +18,6 @@ feature_row:
     url: "https://astrolabsoftware.github.io/spark-fits/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-    url: "https://astrolabsoftware.github.io/spark-fits/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More (2)"
   - image_path:
     alt:
     title: "<i class='fas fa-cogs'></i> spark3D"
@@ -35,8 +32,32 @@ feature_row:
     url: "https://github.com/ChristianArnault/tjna"
     btn_class: "btn--primary"
     btn_label: "Learn More"
+feature_row2:
+  - image_path:
+    alt:
+    title:
+    excerpt:
+    url: "https://astrolabsoftware.github.io/spark-fits/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path:
+    alt:
+    title:
+    excerpt:
+    url: "https://astrolabsoftware.github.io/spark3D/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
+  - image_path:
+    alt:
+    title:
+    excerpt:
+    url: "https://github.com/ChristianArnault/tjna"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row2 %}
