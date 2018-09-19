@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Latest news"
+    url: /news/
   - title: "Papers & Projects"
     url: /biblio/
   # - title: "Sample Posts"

@@ -36,11 +36,5 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-# Latest news
-
-- GSoC 2018 is over! spark3D release: [0.2.1](https://github.com/astrolabsoftware/spark3D/releases/tag/0.2.1).
-- Meet us at Spark + AI Summit 2018! We will talk at the meetup on the 2nd of October - 6pm! More information [here](https://databricks.com/sparkaisummit/europe/schedule).
-- Try spark3D, spark-fits and more at NERSC! Dedicated Jupyter kernels can be found at [spark-kernel-nersc](https://github.com/astrolabsoftware/spark-kernel-nersc).
-
 {% include feature_row %}
 
