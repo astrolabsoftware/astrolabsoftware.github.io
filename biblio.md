@@ -10,9 +10,13 @@ author_profile: true
 * *Analyzing billion-objects catalog interactively: Apache Spark for physicists*, Stéphane Plaszczynski, Julien Peloton, Christian Arnault, Jean-Eric Campagne, [arXiv:1807.03078](https://arxiv.org/abs/1807.03078).
 * *Analyzing astronomical data with Apache Spark*, Julien Peloton, Christian Arnault, Stéphane Plaszczynski, [arXiv:1804.07501](https://arxiv.org/abs/1804.07501).
 
-## Conferences
+## Conferences and meetings
 
-* 05/2018: *Analyzing astronomical data with Apache Spark*, in Statistical challenges for large-scale structure in the era of LSST, Oxford UK - Julien Peloton.
+* 12/2018: *Analyzing astronomical data with Apache Spark*, in HSF Software Forum (CERN), meeting. Info [here](https://indico.cern.ch/event/754811/). 
+* 10/2018: *Analyzing astronomical data with Apache Spark*, in Spark + AI Summit 2018, London UK. Info [here](https://databricks.com/sparkaisummit/europe/schedule).
+* 10/2018: *Analyzing astronomical data with Apache Spark*, in Journées Informatique IN2P3/IRFU, Port-bail FR. Info [here](https://indico.in2p3.fr/event/17206/overview) (in French).
+* 07/2018: *Analyzing astronomical data with Apache Spark*, in Analytics WG meeting (CMS, CERN), Geneva. Info [here](https://indico.cern.ch/event/735616/).
+* 05/2018: *Analyzing astronomical data with Apache Spark*, in Statistical challenges for large-scale structure in the era of LSST, Oxford UK. Info [here](https://statlssoxford.web.ox.ac.uk/home).
 
 ## Google Summer of Code
 
