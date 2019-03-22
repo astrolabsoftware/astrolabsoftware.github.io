@@ -32,6 +32,13 @@ feature_row:
     url: "https://fink-broker.readthedocs.io/en/latest/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
+  - image_path:
+    alt:
+    title: "<i class='fas fa-plus'></i> And more!"
+    excerpt: "See all projects from the AstroLab Software organisation, and join the effort!"
+    url: "https://github.com/astrolabsoftware/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
 ---
 
 {% include feature_row id="intro" type="center" %}
