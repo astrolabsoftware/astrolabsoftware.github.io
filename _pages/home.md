@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Learn More"
   - image_path:
     alt:
-    title: "<i class='fas fa-satellite-dish'></i> Fink"
+    title: "<i class='fas fa-stream'></i> Fink"
     excerpt: "Listen to telescope alert systems with Apache Spark Structured Streaming"
     url: "https://github.com/astrolabsoftware/fink-broker/"
     btn_class: "btn--primary"
