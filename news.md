@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-- 22/03/2019: Check-out our new project, [Fink](https://github.com/astrolabsoftware/fink-broker)! Fink is a broker infrastructure enabling a wide range of applications and services to connect to large streams of alerts issued from telescopes all over the world.
+- 22/03/2019: Check out our new project, [Fink](https://github.com/astrolabsoftware/fink-broker), a broker infrastructure enabling a wide range of applications and services to connect to large streams of alerts issued from telescopes all over the world.
 - 02/02/2019: GSoC 2019 is starting! Check out the [list of proposals](https://hepsoftwarefoundation.org/gsoc/projects/2019/project_AstroLab.html).
 - 18/01/2019: Meet us at LPC Clermont! We will talk on the 18th of January - 2:30pm. More information to come.
 - 05/12/2018: Meet us at CERN for the Software Forum! We will talk on the 5th of December 2018 - 5pm. More information [here](https://indico.cern.ch/event/754811/)
