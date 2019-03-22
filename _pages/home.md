@@ -27,9 +27,9 @@ feature_row:
     btn_label: "Learn More"
   - image_path:
     alt:
-    title: "<i class='fas fa-terminal'></i> Interfaces"
-    excerpt: "Interface Scala and Spark with your favourite languages: C/C++/Fortran and more!"
-    url: "https://github.com/ChristianArnault/tjna"
+    title: "<i class="fas fa-satellite-dish"></i> Fink"
+    excerpt: "Astronomy Broker based on Apache Spark Structured Streaming"
+    url: "https://github.com/astrolabsoftware/fink-broker"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 ---
@@ -37,4 +37,3 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
