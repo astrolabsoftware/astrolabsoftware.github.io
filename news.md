@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+- 06/12/2019: New releases for spark-fits ([0.8.3](https://github.com/astrolabsoftware/spark-fits/releases/tag/0.8.3))
+- 20/08/2019: GSoC is over. Check out the [summary report](https://gist.github.com/cAbhi15/70619824a8a24dc70cf061a766788934).
 - 22/03/2019: Check out our new project, [Fink](https://github.com/astrolabsoftware/fink-broker), a broker infrastructure enabling a wide range of applications and services to connect to large streams of alerts issued from telescopes all over the world.
 - 02/02/2019: GSoC 2019 is starting! Check out the [list of proposals](https://hepsoftwarefoundation.org/gsoc/projects/2019/project_AstroLab.html).
 - 18/01/2019: Meet us at LPC Clermont! We will talk on the 18th of January - 2:30pm. More information to come.
