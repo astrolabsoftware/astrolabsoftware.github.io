@@ -29,7 +29,7 @@ feature_row:
     alt:
     title: "<i class='fas fa-stream'></i> Fink"
     excerpt: "Listen to telescope alert systems and process data with Apache Spark Structured Streaming and Apache Kafka."
-    url: "https://fink-broker.readthedocs.io/en/latest/"
+    url: "https://fink-broker.org"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path:
