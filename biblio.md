@@ -33,7 +33,7 @@ AstroLab projects were featured in:
 
 You can find proposals for internships:
 
-* Summer 2020: [clustering with spark3d](pdf/spark3d.pdf), [machine learning with Fink](broker.pdf), [Apache Spark on Kubernetes clusters](pdf/swan.pdf).
+* Summer 2020: [clustering with spark3d](pdf/spark3d.pdf), [machine learning with Fink](pdf/broker.pdf), [Apache Spark on Kubernetes clusters](pdf/swan.pdf).
 
 ## Google Summer of Code
 
