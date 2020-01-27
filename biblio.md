@@ -12,7 +12,7 @@ author_profile: true
 
 ## Conferences and meetings
 
-Fink was featured in:
+AstroLab projects were featured in:
 
 * 11/2019: Dark Energy Workshop (Paris)
 * 10/2019: Spark + AI Summit 2019 (Amsterdam)
@@ -28,6 +28,12 @@ Fink was featured in:
 * 10/2018: Journées Informatique IN2P3/IRFU, Port-bail FR. Info [here](https://indico.in2p3.fr/event/17206/overview) (in French).
 * 07/2018: Analytics WG meeting (CMS, CERN), Geneva. Info [here](https://indico.cern.ch/event/735616/).
 * 05/2018: Statistical challenges for large-scale structure in the era of LSST, Oxford UK. Info [here](https://statlssoxford.web.ox.ac.uk/home).
+
+## Internships
+
+You can find proposals for internships:
+
+* Summer 2020: [clustering with spark3d](pdf/spark3d.pdf), [machine learning with Fink](broker.pdf), [Apache Spark on Kubernetes clusters](pdf/swan.pdf).
 
 ## Google Summer of Code
 
